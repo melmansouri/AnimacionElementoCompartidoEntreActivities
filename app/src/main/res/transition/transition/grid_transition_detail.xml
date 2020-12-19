@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transitionSet>
+    <!--transicion de elementos compartidos de tipo texto-->
+    <!--Deplazará el texto a la posicion donde se encuentre el nuevo layout-->
+    <changeBounds/>
+    <!--transicion de elementos compartidos de tipo imagen-->
+    <!--Redimensionara la imagen al tamaño de la vista de detalles-->
+    <changeImageTransform/>
+</transitionSet>
